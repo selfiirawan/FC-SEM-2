@@ -1,0 +1,11 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: #fff;
+  color: #000;
+  margin: 0;
+  padding: 20px;
+  border: 1px solid black;
+}
